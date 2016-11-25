@@ -1,0 +1,31 @@
+New log file opened at Fri Nov 25 10:02:15 BRST 2016 by 3357@arlen-Vostro-5470
+Taking next connection to: 54517
+New client attempting to connect on port: 59410-54517
+  Address = /127.0.1.1:54517
+This client on port 59410 has uuid 809970f7-7fde-4470-9171-10aca7d6e014 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-809970f7-7fde-4470-9171-10aca7d6e014
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54517
